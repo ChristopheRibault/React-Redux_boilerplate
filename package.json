@@ -1,0 +1,24 @@
+{
+  "name": "redux_boilerplate",
+  "version": "1.0.0",
+  "description": "1. Start a new project with [create-react-app](https://github.com/facebook/create-react-app).",
+  "main": "store.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopheRibault/Redux_boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopheRibault/Redux_boilerplate/issues"
+  },
+  "homepage": "https://github.com/ChristopheRibault/Redux_boilerplate#readme",
+  "dependencies": {
+    "react-redux": "^5.1.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  }
+}
