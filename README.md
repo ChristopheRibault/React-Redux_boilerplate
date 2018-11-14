@@ -29,9 +29,12 @@
 npm install --save redux react-redux redux-thunk
 ```
 
-6. Start working on your project with react-redux.
+6. Install redux devtool [for chrome](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) or [for firefox](https://addons.mozilla.org/en-US/firefox/addon/remotedev/), 
+
+7. Start working on your project with react-redux.
 
 More info on how to use redux :
 - [Redux Github](https://github.com/reduxjs/redux)
 - [React-redux Github](https://github.com/reduxjs/react-redux)
 - [Redux-thunk Github](https://github.com/reduxjs/redux-thunk)
+- [redux-devtools-extensions Github](https://github.com/zalmoxisus/redux-devtools-extension)
