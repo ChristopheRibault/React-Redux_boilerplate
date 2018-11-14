@@ -25,7 +25,9 @@
 
 5. Open you terminal and intall redux, react-redux and redux-thunk in your project with : 
 
-`npm install --save redux react-redux redux-thunk`.
+```Shell
+npm install --save redux react-redux redux-thunk
+```
 
 6. Start working on your project with react-redux.
 
