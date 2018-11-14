@@ -6,13 +6,13 @@
 
 3. Copy actions, components and reducers folders into your src folder.
 
-4. Dans le fichier index.js importer Provider
+4. In the file index.js import Provider
     
     ```Javascript
     import { Provider } from 'react-redux';
     ```
     
-    puis entourer `<App />` avec le `<Provider>` :
+    then wrap `<App />` with `<Provider>` :
 
     ```Javascript
     ReactDOM.render(
