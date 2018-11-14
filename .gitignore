@@ -1,5 +1,6 @@
 # Created by https://www.gitignore.io/api/linux,sublimetext,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=linux,sublimetext,visualstudiocode
+node_modules
 
 ### Linux ###
 *~
