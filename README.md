@@ -1,3 +1,5 @@
+*This repository gives you the initial files and folders you'll need to add redux and redux devtool to your react project.*
+
 ## HOW TO START ?
 
 1. Start a new project with [create-react-app](https://github.com/facebook/create-react-app).
